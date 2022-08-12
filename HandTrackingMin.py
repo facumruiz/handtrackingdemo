@@ -1,3 +1,7 @@
+# ERROR1 (python opencv could not display video while using third party camera)
+# https://stackoverflow.com/questions/46380787/python-opencv-could-not-display-video-while-using-third-party-camera
+
+
 import cv2
 import mediapipe as mp
 import time
